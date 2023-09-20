@@ -1,0 +1,15 @@
+B:\PROGRAMMING\python\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+B:\PROGRAMMING\python\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+B:\PROGRAMMING\python\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+B:\PROGRAMMING\python\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+B:\PROGRAMMING\python\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+B:\PROGRAMMING\python\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+B:\PROGRAMMING\python\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+B:\PROGRAMMING\python\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+B:\PROGRAMMING\python\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+B:\PROGRAMMING\python\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+B:\PROGRAMMING\python\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+B:\PROGRAMMING\python\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+B:\PROGRAMMING\python\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+B:\PROGRAMMING\python\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+B:\PROGRAMMING\python\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll

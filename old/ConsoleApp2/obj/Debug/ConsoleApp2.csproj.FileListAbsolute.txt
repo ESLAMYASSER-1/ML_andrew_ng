@@ -1,0 +1,6 @@
+B:\PROGRAMMING\python\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+B:\PROGRAMMING\python\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+B:\PROGRAMMING\python\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+B:\PROGRAMMING\python\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+B:\PROGRAMMING\python\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+B:\PROGRAMMING\python\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
